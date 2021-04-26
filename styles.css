@@ -18,7 +18,7 @@ li:last-child {
 
 li a {
  display: block;
- color: black;
+ color: #006400;
  text-align: left;
  padding: 15px 17px;
  text-decoration: none;
@@ -31,4 +31,19 @@ li a:hover {
 
 .active {
  background-color: #a09f9f;
+}
+
+#fly {
+display: block;
+position: relative;
+margin: 0px auto;
+width: 50%;
+height: 40px;
+padding: 10px;
+border: none;
+border-radius: 3px;
+font-size: 12px;
+text-align: center;
+color: #fff;
+background: #ee8a65;
 }
